@@ -9,7 +9,7 @@ head:
 
 ::: info
 
-Although this tutorial can be used as a reference to understand how to create frontends to interact with zkSync contracts, this is a continuation of the [Quickstart tutorial](../../quick-start/hello-world.md). Make sure to complete it before continue.
+Although this tutorial can be used as a reference to understand how to create frontends that interact with zkSync contracts, this is ultimately a continuation of the [Quickstart tutorial](../../quick-start/hello-world.md). Be sure to complete it before you continue.
 
 :::
 
