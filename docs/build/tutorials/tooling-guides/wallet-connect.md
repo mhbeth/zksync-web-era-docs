@@ -7,11 +7,11 @@ head:
 
 # WalletConnect
 
-Using WalletConnect with zkSync Era is fast and easy. Below is a quick example to get you started.
+Using WalletConnect with zkSync Era is fast and easy. Below is a quick example to get you started:
 
 WalletConnect's [Web3Modal React](https://docs.walletconnect.com/web3modal/react/about#introduction) integrates with the Wagmi library, offering a suite of React Hooks to streamline your dapp development. This enables effortless message signing, smart contract interactions, and additional functionalities.
 
-::: info Don't have a project ID?
+## Don't have a project ID?
 
 Head over to [WalletConnect Cloud](https://cloud.walletconnect.com/sign-in) and create a new project now! This is a requirement for using WalletConnect.
 
