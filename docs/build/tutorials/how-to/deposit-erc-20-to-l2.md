@@ -18,8 +18,8 @@ Use the **`zks_getBridgeContracts`** endpoint or **`getDefaultBridgeAddresses`**
 ### Prerequisites
 
 - **Node.js**: Ensure you have Node.js installed. If not, download it from [here](https://nodejs.org/).
-- **Private Key**: Have access to a private key for the account you'll be using.
-- **L1 RPC Endpoint**: A URL to an Ethereum node to interact with. You can find RPC endpoints for Goerli and Ethereum mainnet on [Chainlist](https://chainlist.org/) or use a node provider like Infura.
+- **Private Key**: Have access to the private key for the account you'll be using.
+- **L1 RPC Endpoint**: A URL to an Ethereum node to interact with. You can find RPC endpoints for Goerli and Ethereum mainnet on [Chainlist](https://chainlist.org/) or use a node provider like [Infura](https://www.infura.io/).
 
 ### Step 1: Understand L1 - L2 Deposits
 
